@@ -9,7 +9,7 @@ moving: ., .., ~, and /
 cd: go to ~/flatiron
 touch: create a new .txt file
 mkdir: today's work
-man: get help on `mv`
+man (on Windows: HELP): get help on `mv`
 mv: move the .txt file to the new folder
 ls <dir>: use `ls` to verify the move
 
